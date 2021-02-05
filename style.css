@@ -1,0 +1,37 @@
+body {
+  background-color:#98B4D4;
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 500;
+  font-size: 35px;
+}
+p {
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+  font-size: 25px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+li {
+  display: inline;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+}
+form {
+  text-align: center;
+}
